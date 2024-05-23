@@ -1,14 +1,12 @@
-# vue-pizza
+# vue-sushi
 
-This template should help get you started developing with Vue 3 in Vite.
+Этот проект создан на Vue 3
 
-## Recommended IDE Setup
+Шаблон интернет-магазина, который позволяет добавлять товары в корзину, оформлять покупки, искать и фильтровать товары
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![image](https://github.com/dennew052/vue-sushi/assets/42219192/0814d59b-0df4-4857-88b7-fc36b901a13e)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<p align="center"><img  src="https://github.com/dennew052/vue-sushi/assets/42219192/1614d203-3ea6-41ae-aba7-f0e61297fe15"></p>
 
 ## Project Setup
 
@@ -20,16 +18,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
