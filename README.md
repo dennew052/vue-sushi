@@ -4,7 +4,7 @@
 
 Шаблон интернет-магазина, который позволяет добавлять товары в корзину, оформлять покупки, искать и фильтровать товары
 
-# https://dennew052.github.io/vue-sneakers/
+# https://dennew052.github.io/vue-sushi/
 
 ![image](https://github.com/dennew052/vue-sushi/assets/42219192/0814d59b-0df4-4857-88b7-fc36b901a13e)
 
