@@ -66,8 +66,8 @@ watch(cart, () => {
 
 onMounted(() => {
 
-  const localCart = localStorage.getItem('cart')
-  const localFavorites = localStorage.getItem('favorites')
+  const localCart = localStorage.getItem('cart2')
+  const localFavorites = localStorage.getItem('favorites2')
   const localItem = localCart ? JSON.parse(localCart).find(item => item.id === props.item.id) : []
 
   if (localItem) {

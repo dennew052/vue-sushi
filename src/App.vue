@@ -32,13 +32,13 @@ const removeFromFavorites = (item) => {
 }
 
 watch(cart, () => {
-    localStorage.setItem('cart', JSON.stringify(cart.value))
+    localStorage.setItem('cart2', JSON.stringify(cart.value))
   },
   { deep: true }
 )
 
 watch(favorites, () => {
-    localStorage.setItem('favorites', JSON.stringify(favorites.value))
+    localStorage.setItem('favorites2', JSON.stringify(favorites.value))
   },
   { deep: true }
 )

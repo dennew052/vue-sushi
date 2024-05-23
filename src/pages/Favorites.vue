@@ -107,7 +107,7 @@ const fetchItems = async () => {
 }
 
 onMounted(() => {
-  favorites.value = localStorage.getItem('favorites')
+  favorites.value = localStorage.getItem('favorites2')
   fetchItems()
 })
 </script>
